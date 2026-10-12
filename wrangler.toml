@@ -1,0 +1,18 @@
+name = "sdc-api"
+main = "worker/worker.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+# Cloudflare D1 Database Binding
+[[d1_databases]]
+binding = "DB"
+database_name = "sdc-db"
+database_id = "00000000-0000-0000-0000-000000000000" # Replace with 'wrangler d1 create sdc-db' ID
+
+# Default Environment Variables
+[vars]
+ADMIN_TOKEN = "4892"
+
+# Secrets required in Cloudflare Worker (Set via Wrangler CLI):
+# wrangler secret put RESEND_API_KEY
+# wrangler secret put ADMIN_TOKEN

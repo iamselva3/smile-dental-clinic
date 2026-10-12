@@ -1,0 +1,180 @@
+{
+  "nav": {
+    "bookNow": "Book Visit",
+    "callClinic": "Call Clinic",
+    "treatments": "Treatments",
+    "doctors": "Doctors",
+    "reviews": "Patient Stories",
+    "pricing": "Transparent Fees",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "admin": "Staff Desk"
+  },
+  "hero": {
+    "badge": "Trusted by 35,000+ South Indian Families",
+    "titleLine1": "Healthy teeth. Honest care.",
+    "titleLine2": "A smile you'll truly love.",
+    "subheading": "Pain-free treatments, modern painless technology, and genuine doctors who treat you like family.",
+    "quickBookTitle": "Quick Appointment in 60 Secs",
+    "quickBookSub": "No waiting room delays. Direct confirmation.",
+    "selectTreatment": "Select Treatment",
+    "selectDay": "Preferred Day",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "thisWeek": "This Week",
+    "enterPhone": "10-digit Mobile / WhatsApp",
+    "bookVisitBtn": "Book My Visit Now →",
+    "trustTagRating": "4.9 Google Rating (1,480+ Reviews)",
+    "trustTagExp": "20+ Years Family Care",
+    "trustTagHappy": "35,000+ Patients Smiled",
+    "sterilizationTitle": "100% Hospital-Grade Sterilization",
+    "sterilizationSub": "Pouches opened directly at your chair"
+  },
+  "trustStrip": {
+    "ida": "Indian Dental Association (IDA) Member",
+    "iso": "ISO 9001:2015 Quality Certified",
+    "sterilization": "Hospital-Grade Class-B Autoclave",
+    "cbct": "In-House 3D Digital X-Ray (CBCT)",
+    "painless": "Computerized Painless Anesthesia",
+    "emi": "0% Interest EMI on Credit & Debit Cards"
+  },
+  "treatments": {
+    "sectionTag": "OUR SERVICES",
+    "heading": "Gentle, Expert Dental Care For All Ages",
+    "subheading": "Clear upfront pricing with zero hidden charges. Choose your concern to see details.",
+    "bookThis": "Book This Treatment →",
+    "startingFrom": "Starting from"
+  },
+  "pride": {
+    "sectionTag": "WHY CHOOSE US",
+    "heading": "The Pride of Smile Dental Clinic",
+    "subheading": "Two decades of gentle clinical excellence in Anna Nagar, Chennai.",
+    "doctorsHeading": "Meet Our Experienced Doctors",
+    "doctorsSub": "Compassionate specialists who listen patiently and explain every step before starting.",
+    "bookWithDoc": "Book with",
+    "whyHeading": "Why Families Across South India Trust Us",
+    "reasons": {
+      "painless": {
+        "title": "Genuinely Painless Dentistry",
+        "desc": "Pre-numbed topical gels, computerized injection systems, and gentle hands ensure you barely feel a prick."
+      },
+      "transparent": {
+        "title": "100% Upfront Transparent Fees",
+        "desc": "Written estimates before starting any work. No surprise charges, no unnecessary root canals, honest diagnosis."
+      },
+      "sterile": {
+        "title": "Sterilized Pouches Opened in Front of You",
+        "desc": "Strict 6-step hospital sterilization protocol with sterile vacuum packaging opened directly by your chair."
+      },
+      "emi": {
+        "title": "Affordable 0% EMI & Insurance",
+        "desc": "Split major treatments like implants or braces into simple 3 to 12 months zero-interest installments."
+      },
+      "followup": {
+        "title": "Free Follow-Ups & Written Warranty",
+        "desc": "All dental crowns and implants come with a clinic-backed warranty certificate and complimentary check-ups."
+      },
+      "emergency": {
+        "title": "Same-Day Emergency Relief",
+        "desc": "Severe toothache or knocked-out tooth? We reserve emergency triage slots every single day."
+      }
+    }
+  },
+  "stories": {
+    "sectionTag": "REAL RESULTS",
+    "heading": "Smile Transformations",
+    "subheading": "Drag the slider to see how conservative, natural dental care transformed real smiles.",
+    "dragPrompt": "Drag left or right to compare"
+  },
+  "reviews": {
+    "sectionTag": "PATIENT REVIEWS",
+    "heading": "Loved by Families Like Yours",
+    "subheading": "Over 1,480 verified Google reviews with an average 4.9-star rating.",
+    "googleVerified": "Verified Google Review"
+  },
+  "howItWorks": {
+    "sectionTag": "SIMPLE 3 STEPS",
+    "heading": "How Your Visit Works",
+    "subheading": "From booking your slot to walking out smiling — simple, punctual, and comfortable.",
+    "step1Title": "1. Reserve Online in 60s",
+    "step1Desc": "Pick your doctor, date, and preferred time slot. No advance payment required.",
+    "step2Title": "2. Visit With Zero Wait",
+    "step2Desc": "Walk into our calming clinic. Your chair and digital scans are pre-sanitized and ready on time.",
+    "step3Title": "3. Walk Out Smiling",
+    "step3Desc": "Gentle, pain-free treatment with crystal-clear aftercare and WhatsApp follow-up support."
+  },
+  "pricing": {
+    "sectionTag": "TRANSPARENT PRICING",
+    "heading": "Honest Fees. No Hidden Costs.",
+    "subheading": "Quality healthcare should be predictable and fair. Compare starting prices below.",
+    "treatmentCol": "Treatment",
+    "priceCol": "Starting Fee",
+    "durationCol": "Typical Duration",
+    "actionCol": "Action",
+    "emiNote": "Note: 0% EMI options available on all procedures above ₹10,000 with HDFC, ICICI, SBI, Axis, and Bajaj Finserv."
+  },
+  "faq": {
+    "sectionTag": "COMMON QUESTIONS",
+    "heading": "Frequently Asked Questions",
+    "subheading": "Everything you need to know about comfort, costs, and appointments."
+  },
+  "clinicInfo": {
+    "sectionTag": "VISIT US",
+    "heading": "Find Us in Anna Nagar, Chennai",
+    "subheading": "Centrally located, peaceful ambiance, and dedicated patient parking.",
+    "addressTitle": "Clinic Address",
+    "hoursTitle": "Operating Hours",
+    "callTitle": "Direct Tele-Consultation",
+    "getDirections": "Get Google Maps Directions →",
+    "callNow": "Call Now",
+    "whatsappChat": "Chat on WhatsApp",
+    "bookVisit": "Book Appointment"
+  },
+  "booking": {
+    "sheetTitle": "Book Your Clinical Visit",
+    "sheetSub": "Takes under 60 seconds • Instant WhatsApp confirmation",
+    "step1": "1. Treatment",
+    "step2": "2. Date & Time",
+    "step3": "3. Patient Details",
+    "chooseDoctor": "Preferred Specialist Doctor",
+    "anyDoctor": "Any Available Senior Doctor (Fastest Slot)",
+    "selectDate": "Select Appointment Date",
+    "morning": "Morning (9 AM - 12 PM)",
+    "afternoon": "Afternoon (2 PM - 5 PM)",
+    "evening": "Evening (5 PM - 8 PM)",
+    "reserved": "Booked",
+    "timePassed": "Passed",
+    "allSlotsPassedToday": "All appointment slots for today have concluded. Please select Tomorrow to view available times.",
+    "fullName": "Patient Full Name",
+    "phone": "WhatsApp / Mobile Number (+91)",
+    "phoneHelper": "We'll send your appointment slip & map directions on WhatsApp",
+    "email": "Email Address (Optional)",
+    "emailHelper": "For receiving branded A4 PDF appointment voucher",
+    "notes": "What brings you in? (Optional)",
+    "notesPlaceholder": "e.g., toothache on right side, crown inquiry, routine checkup...",
+    "consent": "I agree to the clinic timing and understand that cancellations require prior notice.",
+    "back": "Back",
+    "proceed": "Next Step →",
+    "confirmBooking": "Confirm My Appointment →",
+    "confirming": "Confirming with Clinic Ledger...",
+    "successTitle": "Appointment Confirmed!",
+    "successSub": "Your visit is officially reserved in our day-sheet. We look forward to welcoming you."
+  },
+  "slip": {
+    "refLabel": "BOOKING REFERENCE",
+    "slipTitle": "Official Appointment Voucher",
+    "patient": "Patient Name",
+    "phone": "Phone Number",
+    "treatment": "Treatment",
+    "doctor": "Attending Doctor",
+    "date": "Appointment Date",
+    "time": "Time Slot",
+    "location": "Clinic Address",
+    "earlyNotice": "Please arrive 10 minutes prior for gentle antiseptic rinse and smile consultation.",
+    "downloadPdf": "Download A4 PDF Slip",
+    "sendEmail": "Email My Voucher",
+    "sendWhatsApp": "Open in WhatsApp Concierge",
+    "addToCalendar": "Add to Calendar (.ics)",
+    "bookAnother": "+ Book for Another Family Member"
+  }
+}
