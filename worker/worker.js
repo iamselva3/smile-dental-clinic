@@ -121,6 +121,16 @@ export default {
       });
     }
 
+    // Serve static frontend assets (Vite React SPA)
+    if (env.ASSETS && !url.pathname.startsWith('/api')) {
+      const response = await env.ASSETS.fetch(request);
+      if (response.status === 404) {
+        // SPA Fallback for client-side routes (e.g., /admin, /booking)
+        return env.ASSETS.fetch(new Request(new URL('/index.html', request.url), request));
+      }
+      return response;
+    }
+
     try {
       // -------------------------------------------------------------
       // ROUTE: GET /api/slots?date=&doctor=
@@ -465,7 +475,12 @@ export default {
         }, 201);
       }
 
-      // Fallback 404
+      // Fallback: If static assets binding exists and not an API call, serve SPA
+      if (env.ASSETS && !url.pathname.startsWith('/api')) {
+        return env.ASSETS.fetch(new Request(new URL('/index.html', request.url), request));
+      }
+
+      // Fallback 404 for unknown API endpoints
       return error(`Endpoint not found: ${method} ${url.pathname}`, 404);
 
     } catch (err) {
