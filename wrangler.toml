@@ -1,4 +1,4 @@
-name = "sdc-api"
+name = "smile-dental-clinic"
 main = "worker/worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "sdc-db"
-database_id = "00000000-0000-0000-0000-000000000000" # Replace with 'wrangler d1 create sdc-db' ID
+database_id = "80539d61-5a00-4b2a-a77a-f0e01eb1f3e9"
 
 # Default Environment Variables
 [vars]
